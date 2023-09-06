@@ -1,6 +1,8 @@
 
-
 # Type-ahead Searchbar for Android
+- Real-time type-ahead search suggestions.
+- Integration with Firebase Firestore for fetching search suggestions.
+- Easy-to-use and customizable AutoCompleteTextView.
 
 This Android app demonstrates a type-ahead search bar using Kotlin and Android. It allows users to search for items, and as they type, it provides real-time suggestions in an auto-complete dropdown.
 ```markdown
