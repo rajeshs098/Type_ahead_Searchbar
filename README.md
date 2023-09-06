@@ -1,35 +1,9 @@
+
+
 # Type-ahead Searchbar for Android
 
 This Android app demonstrates a type-ahead search bar using Kotlin and Android. It allows users to search for items, and as they type, it provides real-time suggestions in an auto-complete dropdown.
-
-## Features
-
-- Real-time type-ahead search suggestions.
-- Integration with Firebase Firestore for fetching search suggestions.
-- Easy-to-use and customizable AutoCompleteTextView.
-
-## Getting Started
-
-Follow these steps to set up and run the project on your local machine.
-
-### Prerequisites
-
-- Android Studio (latest version)
-- Firebase project with Firestore (if you want to use a Firebase backend)
-
-### Installation
-
-1. Clone this repository to your local machine using Git or download it as a ZIP file.
-
-   ```bash
-   git clone https://github.com/rajeshs098/Type_ahead_Searchbar.git
-Certainly! Here's the content in a code block that you can easily copy and paste into your README.md file:
-
 ```markdown
-# Type-ahead Searchbar for Android
-
-This Android app demonstrates a type-ahead search bar using Kotlin and Android. It allows users to search for items, and as they type, it provides real-time suggestions in an auto-complete dropdown.
-
 ## Features
 
 - Real-time type-ahead search suggestions.
